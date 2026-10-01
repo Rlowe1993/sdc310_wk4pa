@@ -1,0 +1,1 @@
+No need to run the .sql file, if the DB does not exist, upon first run, database.php will set up the database automatically.
